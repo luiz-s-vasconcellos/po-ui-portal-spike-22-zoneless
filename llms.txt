@@ -52,7 +52,6 @@ ng add @po-ui/ng-components
 - [PoDynamicViewComponent](https://po-ui.io/llms-generated/po-dynamic-view.md): Componente para listar dados dinamicamente a partir de uma lista de objetos.
 - [PoEmailComponent](https://po-ui.io/llms-generated/po-email.md): Este é um componente baseado em input, com várias propriedades do input nativo e outras
 - [PoFilterChipComponent](https://po-ui.io/llms-generated/po-filter-chip.md): O `po-filter-chip` é um componente interativo que representa uma opção de filtro selecionável na forma de chip.
-- [PoGaugeComponent](https://po-ui.io/llms-generated/po-gauge.md): > ESSE COMPONENTE ESTÁ DEPRECIADO E SERÁ REMOVIDO NA v22.x.x.
 - [PoGridComponent](https://po-ui.io/llms-generated/po-grid.md): > Componente em desenvolvimento, podendo haver BREAKING CHANGES nas próximas versões.
 - [PoHeaderComponent](https://po-ui.io/llms-generated/po-header.md): O componente `po-header` é um cabeçalho fixo que permite apresentar itens com ações, divididos em `p-brand`, `p-menu-items`, `p-actions-tools` e `p-header-user`.
 - [PoHelperComponent](https://po-ui.io/llms-generated/po-helper.md): O componente `po-helper` exibe um ícone de ajuda ou informação ao lado de campos, botões ou outros elementos, permitindo ao usuário acessar conteúdos explicativos em um popover.
@@ -180,8 +179,6 @@ ng add @po-ui/ng-components
 - [PoEventSourcingErrorResponse](https://po-ui.io/llms-generated/po-event-sourcing-error-response.md): Classe que define a resposta de erro para um item da fila de eventos que não foi enviado ao servidor por
 - [PoEventSourcingItem](https://po-ui.io/llms-generated/po-event-sourcing-item.md): Classe que irá mapear as informações dos `EventSourcing` gerados pela aplicação.
 - [PoFilterChipSelectedChange](https://po-ui.io/llms-generated/po-filter-chip-selected-change.md): Interface que define o objeto emitido pelo evento `p-selected-change`.
-- [PoGaugeOptions](https://po-ui.io/llms-generated/po-gauge-options.md): Interface* para configurações dos elementos do gráfico.
-- [PoGaugeRanges](https://po-ui.io/llms-generated/po-gauge-ranges.md): Interface que define os alcances das cores do gauge.
 - [PoGridRowActions](https://po-ui.io/llms-generated/po-grid-row-actions.md): Ações executadas durante a manipulação das linhas do grid.
 - [PoHeaderActionPopoverAction](https://po-ui.io/llms-generated/po-header-action-popover-action.md): Interface* que define um template para uma ação.
 - [PoHeaderActionTool](https://po-ui.io/llms-generated/po-header-action-tool.md): Interface* que define a seção de Actions do header.
